@@ -1,7 +1,7 @@
 # Pokemon Battle Simulator
 Evinova codetest
 
-Hours spent: ~5
+Hours spent: ~6
 
 Did all of the "nice to have". Haven't used swagger before, so I took the opportunity to try it.
 If I had more time to spend on this, I would have added:
@@ -18,7 +18,7 @@ If I had more time to spend on this, I would have added:
 ## Starting the server
 
 ```bash
-sudo docker compose up
+sudo docker compose up --build
 ```
 
 ## API
